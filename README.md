@@ -54,7 +54,7 @@ The following tasks were done for data preprocessing:
 3. The categorical features were one hot encoded.
 
 Post data preprocessing four models namely, Linear Regressor, Random Forest Regressor, Gradient Boosting Regressor and XG Boost Regressor models were trained. Given below are the performance on the test dataset for all these models.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Model performance")
+![alt text](https://github.com/adgh82/insurance-cost-predictor-linear-reg/blob/main/ModelPerformance.png "Model performance")
 
 Based on the above data, it was concluded that the Random Forest Model has the best performance on unseen data. So it was saved in a pickle file to be used in a python application for premium price prediction.
 
