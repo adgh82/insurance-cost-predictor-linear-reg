@@ -60,5 +60,7 @@ Based on the above data, it was concluded that the Random Forest Model has the b
 
 ## 7. Model Deployment
 The pickle files produced during the model training was used in a flask application to be loaded and used for calculating the premium price for the given features of the individual.
+
 Here is the link to the [Flask API](https://github.com/adgh82/insurance-premium-predictor-api)
+
 Here is the link to the [Stream Lit app](https://github.com/adgh82/premium-calculation-ui)
